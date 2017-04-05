@@ -1,0 +1,97 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	background-color: #CFDBC5;
+	margin: 0;
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#container {
+	margin: auto;
+	padding: 0;
+	max-width: 1000px;
+	background-color: white;
+}
+
+header {
+	margin: auto;
+	text-align: center;
+}
+
+.heading {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	color: #748269;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-top: 30px;
+}
+
+figcaption {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #748269;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+figure img {
+	margin: 0 auto;
+	height: auto;
+	border-radius: 10px;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	line-height: 30px;
+	padding: 0 30px 0 30px;
+}
+
+header a {
+	margin: 0 auto;
+	text-align: center;
+	padding: 30px 30px 60px 0;
+	list-style: none;
+
+}
+
+header a {
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #748269;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-top: 20px;
+	border: none;
+}
+
+header a:hover {
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #CFDBC5;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-top: 30px;
+	border: none;
+}
