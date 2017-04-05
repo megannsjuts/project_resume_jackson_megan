@@ -20,11 +20,13 @@ body {
 	padding: 0;
 	max-width: 1000px;
 	background-color: white;
+	border-radius: 3px;
 }
 
 header {
 	margin: auto;
 	text-align: center;
+	border-bottom: #CFDBC5 solid 10px;
 }
 
 .heading {
@@ -92,6 +94,6 @@ header a:hover {
 	color: #CFDBC5;
 	text-align: center;
 	letter-spacing: 1px;
-	padding-top: 30px;
+	padding-top: 20px;
 	border: none;
 }
