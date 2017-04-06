@@ -60,6 +60,7 @@ p {
 	text-align: center;
 	line-height: 30px;
 	padding: 0 30px 0 30px;
+	color: #484D46;
 }
 
 header a {
@@ -134,4 +135,37 @@ ul {
 	line-height: 30px;
 	font-size: 16px;
 	text-align: justify;
+	color: #484D46;
+}
+
+.education h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #748269;
+	text-align: left;
+	letter-spacing: 1.5px;
+	padding: 20px 0 0 30px;
+}
+
+
+.education h3 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	font-style: italic;
+	color: #838B83;
+	text-align: left;
+	letter-spacing: 1px;
+	padding: 0 0 0 30px;
+}
+
+.education h4 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #838B83;
+	text-align: left;
+	letter-spacing: 1px;
+	padding: 0 0 0 30px;
 }
