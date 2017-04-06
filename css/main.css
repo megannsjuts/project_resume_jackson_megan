@@ -23,6 +23,8 @@ body {
 	border-radius: 3px;
 }
 
+/* header and bio */
+
 header {
 	margin: auto;
 	text-align: center;
@@ -99,6 +101,9 @@ header a:hover {
 	border: none;
 }
 
+/* Professional Experience */
+
+
 h1 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: bold;
@@ -138,6 +143,9 @@ ul {
 	color: #484D46;
 }
 
+/* Education */
+
+
 .education h2 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: bold;
@@ -168,4 +176,24 @@ ul {
 	text-align: left;
 	letter-spacing: 1px;
 	padding: 0 0 0 30px;
+}
+
+/* Footer */
+
+footer {
+	border-top: #CFDBC5 solid 10px;
+	margin: auto;
+	text-align: center;
+}
+
+footer h2 {
+	text-align: center;
+}
+
+footer img {
+	display: inline-block;
+	text-align: center;
+	width: 5%;
+	height: auto;
+	padding: 20px 0 20px 0;
 }
