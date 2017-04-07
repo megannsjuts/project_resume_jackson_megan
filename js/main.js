@@ -7,4 +7,6 @@ $('.tooltip').tooltipster({
 	theme: 'tooltipster-noir'
 });
 
-$('p').animatescroll();
+$('.scroll').click(function() {
+	$('.education').animatescroll();
+});
